@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T10:28:34 IST" name="Suite" finished-at="2024-02-14T10:30:09 IST" duration-ms="94597">
+    <groups>
+      <group name="regression">
+        <method signature="HeaderTest.company()[pri:2, instance:testPack.HeaderTest@76b1e9b8]" name="company" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.serviceLines()[pri:3, instance:testPack.HeaderTest@76b1e9b8]" name="serviceLines" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.salesResources()[pri:4, instance:testPack.HeaderTest@76b1e9b8]" name="salesResources" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.marketsAndCountries()[pri:5, instance:testPack.HeaderTest@76b1e9b8]" name="marketsAndCountries" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.corporateFunctions()[pri:6, instance:testPack.HeaderTest@76b1e9b8]" name="corporateFunctions" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.people()[pri:7, instance:testPack.HeaderTest@76b1e9b8]" name="people" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.userValidation()[pri:8, instance:testPack.HeaderTest@76b1e9b8]" name="userValidation" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.ethicsAndCompilance()[pri:9, instance:testPack.HeaderTest@76b1e9b8]" name="ethicsAndCompilance" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.company()[pri:2, instance:testPack.HeaderTest@1a75e76a]" name="company" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.serviceLines()[pri:3, instance:testPack.HeaderTest@1a75e76a]" name="serviceLines" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.salesResources()[pri:4, instance:testPack.HeaderTest@1a75e76a]" name="salesResources" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.marketsAndCountries()[pri:5, instance:testPack.HeaderTest@1a75e76a]" name="marketsAndCountries" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.corporateFunctions()[pri:6, instance:testPack.HeaderTest@1a75e76a]" name="corporateFunctions" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.people()[pri:7, instance:testPack.HeaderTest@1a75e76a]" name="people" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.userValidation()[pri:8, instance:testPack.HeaderTest@1a75e76a]" name="userValidation" class="testPack.HeaderTest"/>
+        <method signature="HeaderTest.ethicsAndCompilance()[pri:9, instance:testPack.HeaderTest@1a75e76a]" name="ethicsAndCompilance" class="testPack.HeaderTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2024-02-14T10:28:34 IST" name="Edge Test" finished-at="2024-02-14T10:29:22 IST" duration-ms="48222">
+      <class name="testPack.HeaderTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:28:34 IST" name="setup" finished-at="2024-02-14T10:28:45 IST" duration-ms="10410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://cognizantonline.sharepoint.com/sites/Be.Cognizant/SitePages/Home.aspx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="company()[pri:2, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:28:45 IST" name="company" finished-at="2024-02-14T10:28:47 IST" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company -->
+        <test-method signature="serviceLines()[pri:3, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:28:47 IST" name="serviceLines" finished-at="2024-02-14T10:28:52 IST" duration-ms="4635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceLines -->
+        <test-method signature="salesResources()[pri:4, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:28:52 IST" name="salesResources" finished-at="2024-02-14T10:28:53 IST" duration-ms="1384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesResources -->
+        <test-method signature="marketsAndCountries()[pri:5, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:28:54 IST" name="marketsAndCountries" finished-at="2024-02-14T10:29:02 IST" duration-ms="8070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- marketsAndCountries -->
+        <test-method signature="corporateFunctions()[pri:6, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:29:02 IST" name="corporateFunctions" finished-at="2024-02-14T10:29:09 IST" duration-ms="7426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateFunctions -->
+        <test-method signature="people()[pri:7, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:29:10 IST" name="people" finished-at="2024-02-14T10:29:14 IST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- people -->
+        <test-method signature="userValidation()[pri:8, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:29:14 IST" name="userValidation" finished-at="2024-02-14T10:29:16 IST" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidation -->
+        <test-method signature="ethicsAndCompilance()[pri:9, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:29:16 IST" name="ethicsAndCompilance" finished-at="2024-02-14T10:29:21 IST" duration-ms="4584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ethicsAndCompilance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPack.HeaderTest@76b1e9b8]" started-at="2024-02-14T10:29:21 IST" name="tearDown" finished-at="2024-02-14T10:29:22 IST" duration-ms="1137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPack.HeaderTest -->
+    </test> <!-- Edge Test -->
+    <test started-at="2024-02-14T10:29:23 IST" name="Chrome Test" finished-at="2024-02-14T10:30:09 IST" duration-ms="46068">
+      <class name="testPack.HeaderTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:23 IST" name="setup" finished-at="2024-02-14T10:29:34 IST" duration-ms="11392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://cognizantonline.sharepoint.com/sites/Be.Cognizant/SitePages/Home.aspx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="company()[pri:2, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:34 IST" name="company" finished-at="2024-02-14T10:29:35 IST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company -->
+        <test-method signature="serviceLines()[pri:3, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:35 IST" name="serviceLines" finished-at="2024-02-14T10:29:39 IST" duration-ms="4338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceLines -->
+        <test-method signature="salesResources()[pri:4, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:40 IST" name="salesResources" finished-at="2024-02-14T10:29:41 IST" duration-ms="1373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesResources -->
+        <test-method signature="marketsAndCountries()[pri:5, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:41 IST" name="marketsAndCountries" finished-at="2024-02-14T10:29:49 IST" duration-ms="7844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- marketsAndCountries -->
+        <test-method signature="corporateFunctions()[pri:6, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:49 IST" name="corporateFunctions" finished-at="2024-02-14T10:29:57 IST" duration-ms="7307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateFunctions -->
+        <test-method signature="people()[pri:7, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:29:57 IST" name="people" finished-at="2024-02-14T10:30:01 IST" duration-ms="4202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- people -->
+        <test-method signature="userValidation()[pri:8, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:30:01 IST" name="userValidation" finished-at="2024-02-14T10:30:03 IST" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidation -->
+        <test-method signature="ethicsAndCompilance()[pri:9, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:30:03 IST" name="ethicsAndCompilance" finished-at="2024-02-14T10:30:07 IST" duration-ms="4512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ethicsAndCompilance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPack.HeaderTest@1a75e76a]" started-at="2024-02-14T10:30:08 IST" name="tearDown" finished-at="2024-02-14T10:30:09 IST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPack.HeaderTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
